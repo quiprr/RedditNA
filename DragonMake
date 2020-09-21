@@ -1,0 +1,15 @@
+---
+name: RedditNA
+
+all:
+    targetvers: 10.0
+    archs:
+        - arm64
+        - arm64e
+
+RedditNA:
+    type: tweak
+    logos_files:
+        - RedditNA.xm
+    arc:
+        - Yes
